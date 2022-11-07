@@ -27,11 +27,11 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#ffffff;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#bebebe;
 }
 
 a {
@@ -92,12 +92,12 @@ th, td {
 }
 
 dt {
-  color:#444;
+  color:rgb(157, 145, 145);
   font-weight:700;
 }
 
 th {
-  color:#444;
+  color:rgb(255, 255, 255);
 }
 
 img {
@@ -118,6 +118,7 @@ kbd {
   vertical-align: middle;
 }
 
+//Header(Left side code + default.html)
 header {
   width:300px;
   float:left;
