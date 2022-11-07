@@ -122,6 +122,7 @@ kbd {
 header {
   width:300px;
   vertical-align: middle;
+  float:none;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -186,6 +187,7 @@ strong {
   color:#222;
 }
 
+//Section + content is on the right side
 section {
   width:500px;
   float:right;
