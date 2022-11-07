@@ -120,8 +120,7 @@ kbd {
 
 //Header(Left side code + default.html)
 header {
-  width:300px;
-  float:left;
+  width:600px;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -224,10 +223,9 @@ footer {
     width:auto;
   }
 
-  //Comment this out so header is centered?
-  // header {
-  //   padding-right:320px;
-  // }
+  header {
+    padding-right:320px;
+  }
 
   section {
     border:1px solid #e5e5e5;
