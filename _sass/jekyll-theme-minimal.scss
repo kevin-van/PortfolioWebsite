@@ -120,9 +120,9 @@ kbd {
 
 //Header(Left side code + default.html)
 header {
-  width:300px;
+  width:240px;
   vertical-align: middle;
-  float:none;
+  float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -190,7 +190,7 @@ strong {
 //Section + content is on the right side
 section {
   width:500px;
-  float:none;
+  float:right;
   padding-bottom:50px;
 }
 
